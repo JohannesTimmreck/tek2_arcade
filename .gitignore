@@ -1,0 +1,13 @@
+# object files and binaries
+*.o
+*.so
+arcade
+vgcore.*
+
+# bootstrap
+bootstrap/*
+
+# files for Clion to function correctly
+CMakeLists.txt
+cmake-build-debug/*
+.idea/*

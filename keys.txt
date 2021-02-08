@@ -1,0 +1,11 @@
+Overview for keys mapped to the commands:
+
+Arrow keys	-	Movement
+WASD		-	Movement
+U			-	Prev Graphics
+I			-	Next Graphics
+J			-	Prev Game
+K			-	Next Game
+R			-	Restart
+M			-	Main Menu
+Q			-	Exit
